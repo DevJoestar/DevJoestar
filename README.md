@@ -2,7 +2,7 @@
 - 👀 I’m interested in World Of Warcraft 
 - 🌱 I’m currently learning C++ - PHP
 - 💞️ I’m looking to collaborate on AzerothCore
-- 📫 How to reach me gmail:rhaegalswow@gmail.com Telegram:t.me/DevJoestar
+- 📫 How to reach me gmail:rhaegalswow@gmail.com Telegram: t.me/DevJoestar
 
 <!---
 DevJoestar/DevJoestar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
